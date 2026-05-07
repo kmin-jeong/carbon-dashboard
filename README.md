@@ -5,8 +5,32 @@
 https://cses.re.kr/publishedData/esgList.do
 
 ## erd
+(이미지 깨져서 수정)
+┌──────────────────────┐
+│    ActivityType      │
+├──────────────────────┤
+│ id                   │
+│ name                 │
+└──────────────────────┘
 
-<img width="500" height="500" alt="carbon drawio" src="https://github.com/user-attachments/assets/fb4c06ec-8da4-466f-94f3-fad67f75297c" />
+
+            1
+            │
+            │
+            N
+
+
+┌──────────────────────┐
+│   CarbonActivity     │
+├──────────────────────┤
+│ id                   │
+│ activity_type_id FK  │
+│ activity_date        │
+│ amount               │
+│ unit                 │
+│ description          │
+│ created_at           │
+└──────────────────────┘
 
 ## 화면구성
 
