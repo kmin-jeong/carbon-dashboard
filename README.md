@@ -6,10 +6,22 @@ https://cses.re.kr/publishedData/esgList.do
 
 ## erd
 
+<img width="1" height="1" alt="carbon drawio" src="https://github.com/user-attachments/assets/fb4c06ec-8da4-466f-94f3-fad67f75297c" />
+
 ## 화면구성
 
 ### 데이터 입력 폼
+<img width="766" height="952" alt="carbonform" src="https://github.com/user-attachments/assets/43745af4-a921-4518-84ea-02799f20a1a9" />
 
 ### 차트 페이지
+<img width="762" height="951" alt="carbondash" src="https://github.com/user-attachments/assets/6ba5ca9f-5288-4538-8326-53cafc9bfd1f" />
+<img width="763" height="933" alt="carbondash2" src="https://github.com/user-attachments/assets/c3da72eb-3782-4e12-bcdb-eb1bc522f4a6" />
 
-rechart사용
+
+### 실행명령어
+
+yarn dev && yarn start
+
+
+
+
