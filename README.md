@@ -6,7 +6,7 @@ https://cses.re.kr/publishedData/esgList.do
 
 ## erd
 
-<img width="1" height="1" alt="carbon drawio" src="https://github.com/user-attachments/assets/fb4c06ec-8da4-466f-94f3-fad67f75297c" />
+<img width="500" height="500" alt="carbon drawio" src="https://github.com/user-attachments/assets/fb4c06ec-8da4-466f-94f3-fad67f75297c" />
 
 ## 화면구성
 
