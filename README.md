@@ -5,32 +5,8 @@
 https://cses.re.kr/publishedData/esgList.do
 
 ## erd
-(이미지 깨져서 수정)
-┌──────────────────────┐
-│    ActivityType      │
-├──────────────────────┤
-│ id                   │
-│ name                 │
-└──────────────────────┘
+<img width="271" height="615" alt="erd 이미지" src="https://github.com/user-attachments/assets/ffd0a102-6c2c-416b-92ed-bc01fb90f54d" />
 
-
-            1
-            │
-            │
-            N
-
-
-┌──────────────────────┐
-│   CarbonActivity     │
-├──────────────────────┤
-│ id                   │
-│ activity_type_id FK  │
-│ activity_date        │
-│ amount               │
-│ unit                 │
-│ description          │
-│ created_at           │
-└──────────────────────┘
 
 ## 화면구성
 
